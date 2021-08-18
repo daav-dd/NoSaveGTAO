@@ -5,7 +5,7 @@
 How to start:
 1. Clone this repository
 2. Install the requirements
-3. Simply install Python 3 on your computer and run the NoSave.pyw
+3. Run the NoSave.pyw
 
 ## IMPORTANT
 ***Make sure you set the path to your executable at line 13*** 
